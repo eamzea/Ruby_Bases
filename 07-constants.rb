@@ -1,0 +1,3 @@
+NAME = 'Edgar'
+
+p NAME
